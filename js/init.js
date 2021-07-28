@@ -1,6 +1,6 @@
 /*  Initializa Firebase con la configuración del proyecto. Revisa la
  * configuración en tu servidor de Firebase.  */
-// @ts-ignore
+
 firebase.initializeApp({
 apiKey: "AIzaSyBONk91aHdQDM64llJURcqCo4nctPv32l0",
     authDomain: "chat41avuh.firebaseapp.com",
